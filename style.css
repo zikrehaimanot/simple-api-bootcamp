@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(money.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+
+}
+input{
+  font-size: 30px;
+}
+p{
+  font-size: 25px;
+}
+span{
+  font-size: 25px;
+}
+button{
+  font-size: 30px;
+}
+p{
+  height: 300px;
+}
+#convertDisplay{
+  font-size: 30px;
+}
